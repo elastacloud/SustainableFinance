@@ -9,4 +9,10 @@ It plots a history of ESG (Environmental, Social, Governance) and gives an impac
 
 The dashboard allows drill-down of the various ESG criteria to determine the average and aggregate risk scores based solely on sustainability.
 
-![alt text](/docs/lending_risk_report.png "ESG")
+![alt text](/docs/lending_risk_report.png "Risk Report")
+
+To run the sample open the pbix file in src using PowerBI Desktop. If nothing renders then choose "Edit Queries"->"Data Source Settings" from the Home tab. Navigate to the mock-loans.xlsx file in src->data and choose this file as the data source.
+
+![alt text](/docs/mock_loans.png "Mock Loans")
+
+Any issues please reach out to us. If you have expertise in this area and want to contribute to the next generation reporting platform for Sustainable Finance then please contact us we desperately want to hear from you!
