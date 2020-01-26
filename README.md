@@ -6,3 +6,7 @@ The following sample was based on a workshop which we undertook with a small gro
 It plots a history of ESG (Environmental, Social, Governance) and gives an impact score.
 
 ![alt text](/docs/ESG.png "ESG")
+
+The dashboard allows drill-down of the various ESG criteria to determine the average and aggregate risk scores based solely on sustainability.
+
+![alt text](/docs/lending_risk_report.png "ESG")
