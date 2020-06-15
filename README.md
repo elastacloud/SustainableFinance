@@ -5,7 +5,7 @@ The workshop promoted a dialogue between EBRD specialists drawing on their exper
 
 The workshop promoted and created a new PowerBI sample which you can review and is available for download in the src folder.
 
-![alt text](docs/renewables risk report.png "Renewables Risk Dashboard")
+![alt text](docs/renewables_risk_report.png "Renewables Risk Dashboard")
 
 # Trade Finance Sustainability Sample
 The following example was developed during a workshop hosted by [Finextra](https://www.finextra.com "Finextra's Homepage") and [Responsible Risk](https://www.responsiblerisk.com/ "Responsible Risk Homepage")
