@@ -1,3 +1,12 @@
+# Renewables Sustainability Sample
+The following example was developed during a workshop hosted by [Finextra](https://www.finextra.com "Finextra's Homepage") and [Responsible Risk](https://www.responsiblerisk.com/ "Responsible Risk Homepage") on the 2/3 June. 
+
+The workshop promoted a dialogue between EBRD specialists drawing on their experience and Corre Energy, a company providing energy storage capabilities for renewables projects.
+
+The workshop promoted and created a new PowerBI sample which you can review and is available for download in the src folder.
+
+![alt text](docs/renewables risk report.png "Renewables Risk Dashboard")
+
 # Trade Finance Sustainability Sample
 The following example was developed during a workshop hosted by [Finextra](https://www.finextra.com "Finextra's Homepage") and [Responsible Risk](https://www.responsiblerisk.com/ "Responsible Risk Homepage")
 
